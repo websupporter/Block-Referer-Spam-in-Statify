@@ -93,3 +93,4 @@ function brsis_admin_page(){
 	</div>
 	<?php
 }
+?>
